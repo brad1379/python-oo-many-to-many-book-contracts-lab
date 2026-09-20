@@ -49,3 +49,7 @@ jspm_packages
 
 # pytest cache
 .pytest_cache
+
+__pycache__
+testing/__pycache__/test_many_to_many.cpython-312-pytest-7.4.4.pyc
+testing/__pycache__/conftest.cpython-312-pytest-7.4.4.pyc
